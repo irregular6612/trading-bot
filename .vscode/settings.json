@@ -1,0 +1,10 @@
+{
+    "python.analysis.typeCheckingMode": "off",
+    "terminal.integrated.fontFamily": "MesloLGS NF",  // 또는 사용 중인 폰트
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.gpuAcceleration": "on",
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "terminal.integrated.env.osx": {
+        "LC_ALL": "en_US.UTF-8"
+    }
+}
